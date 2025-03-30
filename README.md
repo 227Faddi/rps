@@ -1,1 +1,1 @@
-# rps
+# ROCK PAPER SCISSOR - PYTHON
